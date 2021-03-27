@@ -31,7 +31,7 @@ Switch to the Kibana Discover page to see more details about this activity.
 What is the source IP address of this activity?35.143.166.159
 What are the geo coordinates of this activity? lat": 43.34121, "lon": -73.6103075 
 What OS was the source machine running? Win 8
-What is the full URL that was accessed? artifacts.elastic.co
+What is the full URL that was accessed? https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm
 From what website did the visitor's traffic originate? Facebook
 Finish your investigation with a short overview of your insights.
 What do you think the user was doing? Was trying to download packages
